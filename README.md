@@ -56,13 +56,40 @@
 
 ## 🔁 Data Centre Lifecycle
 
-<div align="center">
+```mermaid
+flowchart LR
+    A[🏗️ Construction] --> B[🔌 Commissioning] --> C[🧪 IST] --> D[⚙️ Steady-State Operations]
+    style A fill:#0F2027,stroke:#58A6FF,color:#fff
+    style B fill:#203A43,stroke:#58A6FF,color:#fff
+    style C fill:#2C5364,stroke:#58A6FF,color:#fff
+    style D fill:#58A6FF,stroke:#0F2027,color:#fff
+```
 
-![Construction](https://img.shields.io/badge/Construction-0F2027?style=for-the-badge) ➜ ![Commissioning](https://img.shields.io/badge/Commissioning-203A43?style=for-the-badge) ➜ ![IST](https://img.shields.io/badge/IST-2C5364?style=for-the-badge) ➜ ![Steady-State Operations](https://img.shields.io/badge/Steady--State_Operations-58A6FF?style=for-the-badge)
+| Phase | What I own | Proof |
+|---|---|---|
+| **Construction** | Hyperscale build-out, MEP delivery, vendor coordination | Launched the AWS Calgary region from ground zero |
+| **Commissioning** | Energization, systems readiness, handover to operations | Procedures, training & shift readiness built from scratch |
+| **IST** | Integrated failure-scenario, transfer & load testing | Rack-down drills & SPOF testing across facilities |
+| **Steady-State Operations** | Uptime, SPOF elimination, critical switching, incident response | 99.9999% uptime across 5 facilities · 14 engineers · 100+ trained |
 
 **40 vendor organisations managed across the full lifecycle — from construction to steady-state operations.**
 
-</div>
+## 🗺️ My Journey
+
+```mermaid
+timeline
+    title From Ahmedabad to Hyperscale Calgary
+    2017 : ONGC — Mechanical Engineer
+         : Ahmedabad, India
+    2020 : Dare Foods — Engineering Technologist
+         : Cambridge, Canada
+    2021 : JLL — Senior Mechanical Engineer
+         : Calgary, Canada
+    2022 : AWS — Site Lead, Data Center Engineering Operations
+         : Calgary, Canada
+```
+
+⚡ **Fun fact:** 40 MW is roughly enough electricity to power 30,000+ homes — that's the scale of critical environment I run every day.
 
 ## 👨‍💻 About Me
 
@@ -86,6 +113,17 @@
 ![Critical Switching](https://img.shields.io/badge/Critical_Switching-7c3aed?style=flat-square)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-DC2626?style=flat-square)
 ![Safety](https://img.shields.io/badge/Safety-DC2626?style=flat-square)
+
+<details>
+<summary>🔍 A day in the life of a Site Lead</summary>
+
+- **Shift readiness** — training and certifying engineers for critical operations
+- **Critical switching** — planning and executing switching operations on live critical systems
+- **Incident response** — owning the response when things go wrong, then driving the fix to closure
+- **Vendor coordination** — 40 vendor organisations across construction, commissioning, IST and operations
+- **Safety first** — 100+ safety audits tracked to closure
+
+</details>
 
 ## 🎓 Education & Credentials
 
