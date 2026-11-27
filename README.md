@@ -23,14 +23,15 @@
 | 40+ MW | 3 AZs | 99.9999% | 5 facilities |
 |---|---|---|---|
 | Hyperscale critical environment | Availability Zones | Uptime sustained | SPOF-elimination program |
-| 6 direct reports | 30+ engineers trained & certified | 200+ Bar Raiser interviews | Site Lead since Jul 2022 |
+| 14 reporting engineers | 100+ engineers trained & certified | 300+ Bar Raiser interviews | 40 vendor organisations |
 
 ## 👨‍💻 About Me
 
-- 🔧 **Site Lead, Data Center Engineering Operations at AWS** — leading a 40+ MW hyperscale critical environment across three Availability Zones in Calgary
+- 🔧 **Site Lead, Data Center Engineering Operations at AWS since July 2022** — leading a 40+ MW hyperscale critical environment across three Availability Zones in Calgary
 - 🚀 Core team that **launched the AWS Calgary region from ground zero** — procedures, training, and shift readiness built from scratch
-- ⚡ Runs a site-wide **single-point-of-failure elimination program across five facilities**, sustaining **99.9999% uptime**
-- 👥 Leads a team of **6 engineers**; trained and certified **30+ engineers**; **200+ technical interviews** as a Bar Raiser
+- ⚡ Program owner for **SPOF elimination, critical switching, and incident response** across five facilities, sustaining **99.9999% uptime**
+- 👥 Leads a team of **14 engineers**; trained and certified **100+ engineers**; **300+ technical interviews** as a Bar Raiser
+- 🤝 Works with **40 vendor organisations** across the data centre lifecycle — construction, commissioning, integrated systems testing (IST), and steady-state operations
 
 ## 🛠️ What I Do
 
@@ -43,6 +44,8 @@
 ![Cooling Systems](https://img.shields.io/badge/Cooling_Systems-0284c7?style=flat-square)
 ![BMS / SCADA](https://img.shields.io/badge/BMS_%2F_SCADA-4b5563?style=flat-square)
 ![PUE & WUE](https://img.shields.io/badge/PUE_%26_WUE-059669?style=flat-square)
+![Critical Switching](https://img.shields.io/badge/Critical_Switching-7c3aed?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC2626?style=flat-square)
 ![Safety](https://img.shields.io/badge/Safety-DC2626?style=flat-square)
 
 ## 🎓 Education & Credentials
@@ -62,8 +65,8 @@
 ## 🎯 Currently
 
 - 🔭 **Currently:** Site Lead, Data Center Engineering Operations, AWS — Calgary
-- 🤝 **Open to:** Data centre operations leadership roles — Calgary, and US roles where relocation fits
-- 💬 **Ask me about:** hyperscale operations, commissioning, critical power & cooling, reliability engineering
+- 🤝 **Open to:** Data centre critical infrastructure operations leadership roles — Calgary, and US roles where relocation fits
+- 💬 **Ask me about:** hyperscale operations, commissioning, critical power & cooling, critical switching, incident response, reliability engineering
 
 ## 🤝 Connect With Me
 
