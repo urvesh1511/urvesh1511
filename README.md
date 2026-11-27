@@ -58,18 +58,20 @@
 
 ```mermaid
 flowchart LR
-    A[🏗️ Construction] --> B[🔌 Commissioning] --> C[🧪 IST] --> D[⚙️ Steady-State Operations]
+    A[🏗️ Construction] --> B[🔌 Commissioning] --> C[🧪 IST] --> D[🔑 PFHO] --> E[⚙️ Steady-State Operations]
     style A fill:#0F2027,stroke:#58A6FF,color:#fff
     style B fill:#203A43,stroke:#58A6FF,color:#fff
     style C fill:#2C5364,stroke:#58A6FF,color:#fff
-    style D fill:#58A6FF,stroke:#0F2027,color:#fff
+    style D fill:#3D6B8A,stroke:#58A6FF,color:#fff
+    style E fill:#58A6FF,stroke:#0F2027,color:#fff
 ```
 
 | Phase | What I own | Proof |
 |---|---|---|
 | **Construction** | Hyperscale build-out, MEP delivery, vendor coordination | Launched the AWS Calgary region from ground zero |
-| **Commissioning** | Energization, systems readiness, handover to operations | Procedures, training & shift readiness built from scratch |
+| **Commissioning** | Energization, functional testing, systems readiness | Procedures, training & shift readiness built from scratch |
 | **IST** | Integrated failure-scenario, transfer & load testing | Rack-down drills & SPOF testing across facilities |
+| **PFHO** | Power Facility Hand-Off — formal handover of white space to operations | Construction zone becomes operational zone — my team takes over |
 | **Steady-State Operations** | Uptime, SPOF elimination, critical switching, incident response | 99.9999% uptime across 5 facilities · 14 engineers · 100+ trained |
 
 **40 vendor organisations managed across the full lifecycle — from construction to steady-state operations.**
