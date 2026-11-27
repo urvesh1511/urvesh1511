@@ -1,8 +1,37 @@
-<div align="center">
+<!-- ============================================================
+     Urvesh Maheshbhai Patel — GitHub profile README
+     Open-source projects powering the visuals in this file:
+     - Capsule Render (waving header + footer):
+       https://github.com/kyechan99/capsule-render
+     - readme-typing-svg (animated typing lines):
+       https://github.com/DenverCoder1/readme-typing-svg
+     - GitHub Stats Extended (stats card; maintained successor
+       of github-readme-stats):
+       https://github.com/stats-organization/github-stats-extended
+     - github-readme-quotes (quote card; custom quote = his own
+       motto from this profile):
+       https://github.com/piyushsuthar/github-readme-quotes
+     - shields.io (all badges): https://github.com/badges/shields
+     - komarev profile views counter:
+       https://github.com/antonkomarev/github-profile-views-counter
+     Deliberately NOT used: Platane/snk contribution snake and
+     yoshi389111/github-profile-3d-contrib — both render from the
+     contribution grid, nearly empty for a non-coder, so they would
+     spotlight the empty grid. Addable later once GitHub activity
+     grows; each needs a one-time GitHub Actions workflow.
+     ============================================================ -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Urvesh%20Maheshbhai%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Site%20Lead%20-%20Data%20Center%20Engineering%20Operations%20-%20AWS&descAlignY=55" width="100%" alt="Urvesh Maheshbhai Patel — Site Lead, Data Center Engineering Operations, AWS" />
+</div>
+
+<div align="center">
   <a href="https://github.com/urvesh1511">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Urvesh+Maheshbhai+Patel;Site+Lead%2C+Data+Center+Engineering+Operations;40%2B+MW+Hyperscale+%7C+99.9999%25+Uptime" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=40%2B+MW+Hyperscale+%7C+99.9999%25+Uptime;SPOF+%7C+Critical+Switching+%7C+Incident+Response;14+Engineers+%7C+100%2B+Trained+%7C+300%2B+Interviews" alt="Typing animation" />
   </a>
+</div>
+
+<div align="center">
 
 # Urvesh Maheshbhai Patel
 
@@ -24,6 +53,16 @@
 |---|---|---|---|
 | Hyperscale critical environment | Availability Zones | Uptime sustained | SPOF-elimination program |
 | 14 reporting engineers | 100+ engineers trained & certified | 300+ Bar Raiser interviews | 40 vendor organisations |
+
+## 🔁 Data Centre Lifecycle
+
+<div align="center">
+
+![Construction](https://img.shields.io/badge/Construction-0F2027?style=for-the-badge) ➜ ![Commissioning](https://img.shields.io/badge/Commissioning-203A43?style=for-the-badge) ➜ ![IST](https://img.shields.io/badge/IST-2C5364?style=for-the-badge) ➜ ![Steady-State Operations](https://img.shields.io/badge/Steady--State_Operations-58A6FF?style=for-the-badge)
+
+**40 vendor organisations managed across the full lifecycle — from construction to steady-state operations.**
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -56,10 +95,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- Stats reflect GitHub activity only — this profile leads with operations impact above, not code volume. -->
+<!-- Stats reflect GitHub activity only — this profile leads with operations impact above, not code volume. Card served by GitHub Stats Extended, the actively maintained successor of github-readme-stats. -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urvesh1511&show_icons=true&theme=dark&hide_border=true" alt="Urvesh's GitHub stats" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api?username=urvesh1511&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" alt="Urvesh's GitHub stats" width="400" />
+</div>
+
+## 💬 Words I Work By
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Keeping%20critical%20environments%20running%20-%20one%20shift%20at%20a%20time.&author=Urvesh%20Maheshbhai%20Patel" alt="Keeping critical environments running — one shift at a time. — Urvesh Maheshbhai Patel" />
+  </a>
 </div>
 
 ## 🎯 Currently
@@ -78,6 +125,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=urvesh1511&label=Profile+views&color=58A6FF&style=flat" alt="Profile views" />
-  <br />
-  Keeping critical environments running — one shift at a time. ⚡
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="" />
